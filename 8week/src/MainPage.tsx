@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import style from "./MainPage.module.less";
 import { Link } from "react-router-dom"; // Link 컴포넌트 불러오기
-import movietheater from "./img/movietheater.png"; // 이미지 import
+import movietheater from "./assets/movietheater.png"; // 이미지 import
 
 // Movie 인터페이스 정의
 // 내가 사용할 데이터는
